@@ -13,10 +13,6 @@ Refactored app to search Google Book API.
  - [Testing Instructions](#testing-instructions)
  - [Questions?](#questions)
 
-
-## Installation Instructions
-https://github.com/lunchtimewhee/book-search-engine/edit/main/README.md
-
 ## Usage Information
 ![](./images/21-mern-homework-demo-02.gif)
 
